@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://angka-togel-akurat.github.io/sitemap.xml
